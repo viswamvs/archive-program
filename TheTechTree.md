@@ -62,6 +62,8 @@ These are the fundamentals of computer science, and hence the foundation of soft
 
 _The Art of Computer Programming_ by Donald Knuth (Pearson)
 
+_Introduction to Algorithms_ by Thomes H Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (MIT Press)
+
 _Sequential and Parallel Algorithms and Data Structures_ by Peter Sanders, Kurt Mehlhorn, Martin Dietzfelbinger, Roman Dementiev (Springer)
 
 _Cryptography_ by Simon Rubinstein-Salzedo (Springer)
@@ -74,13 +76,11 @@ _Everyday Data Structures_ by William Smith (Packt)
 
 _Database Internals_ by Alex Petrov (O&#39;Reilly)
 
-_Understanding MySQL Internals_ by Sasha Pachev (O&#39;Reilly)
-
 _Physical Database Design_ by Sam S. Lightstone, Toby J. Teorey, and Tom Nadeau (Elsevier)
 
-_Learning MySQL and MariaDB_ by Russell J. T. Dyer (O&#39;Reilly)
+_Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design_ by Michael J. Hernandez (Addison-Wesley Professional)
 
-_PostgreSQL Development Essentials_ by Manpreet Kaur, Baji Shaik (Packt)
+_Introduction to the Theory of Computation_ by Michael Sipser (Cengage)
 
 ## Compilers, assembler, and operating systems
 
@@ -122,6 +122,8 @@ _The C++ Primer_ by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo (Pears
 
 _Programming Rust_ by Jim Blandy and Jason Orendorff (O&#39;Reilly)
 
+_The Rust Programming Language_ by Steve Klabnik and Carol Nichols (No Starch Press)
+
 _The Go Programming Language_ by Alan A. A. Donovan and Brian W. Kernighan (Pearson)
 or
 _Head First Go_ by Jay McGavren (O&#39;Reilly)
@@ -130,9 +132,9 @@ _Learning Java_ by Patrick Niemeyer and Daniel Leuck (O&#39;Reilly)
 
 _The Java Virtual Machine Specification_ by Tim Lindholm, Frank Yellin, Gilad Bracha, and Alex Buckley (Pearson)
 
-_Learning JavaScript_ by Ethan Brown (O&#39;Reilly)
+_JavaScript: The Definitive Guide_ by David Flanagan (O&#39;Reilly)
 
-_Mastering JavaScript Functional Programming_ by Federico Kereki (Packt)
+_JavaScript: The Good Parts_ by Douglas Crockford (O&#39;Reilly)
 
 _Learning Swift_ by Jonathon Manning, Paris Buttfield-Addison, and Tim Nugent (O&#39;Reilly)
 
@@ -170,11 +172,15 @@ _Programming Internet Email_ by David Wood (O&#39;Reilly)
 
 _Computer and Information Security Handbook_ by John R. Vacca (Elsevier)
 
-_Data Communications and Networking_ by Behrouz A. Forouzan
+_Data Communications and Networking_ by Behrouz A. Forouzan (McGraw-Hill)
+
+_Computer Networking: A Top-down Approach_ by Jim Kurose (Pearson)
 
 ## Modern software development
 
 The line-by-line act of writing software is quite different from the team-by-team process of developing, testing, integrating, and deploying it. A few key approaches, tools, and roles are described here, including, for obvious reasons, unpacking Git itself.
+
+_Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition_ by Frederick Brooks Jr.
 
 _Working in Public: The Making and Maintenance of Open Source Software_ by Nadia Eghbal (Stripe Press)
 
@@ -202,11 +208,15 @@ _Continuous Delivery_ by Jez Humble and Dave Farley (Addison Wesley)
 
 _The Phoenix Project_ by Gene Kim, Kevin Behr, and George Spafford (IT Revolution Press)
 
+_Clean Code: A Handbook of Agile Software Craftsmanship_ by Robert C. Martin (Prentice Hall)
+
 _DevOps Handbook: How to Create World Class Agility, Reliability, &amp; Security in Technology Organizations_ by Gene Kim, Jez Humble, Patrick Debois, and John Willis (IT Revolution)
 
 _Site Reliability Engineering_ edited by Betsy Beyer, Chris Jone, Jennifer Petoff &amp; Niall Richard Murphy (O&#39;Reilly)
 
 _Designing Distributed Systems_ by Brendan Burns (O&#39;Reilly)
+
+_Designing Data-Intensive Applications_ by Martin Kleppmann (O&#39;Reilly)
 
 _Exercises in Programming Style_ by Cristina Videira Lopes (CRC Press, 2020)
 
@@ -224,6 +234,8 @@ _RESTful Web APIs_ by Leonard Richardson, Mike Amundsen, Sam Ruby (O&#39;Reilly)
 
 _Ruby on Rails Tutorial_ by Michael Hartl (Pearson)
 
+_Django for Professionals: Production Websites with Python & Django_ by William S. Vincent (Still River)
+
 ### Scientific computing
 
 _Mastering Scientific Computing with R_ by Paul Gerrard and Radia M. Johnson (Packt)
@@ -239,6 +251,8 @@ _Deep Learning from Scratch_ by Seth Weidman (O&#39;Reilly)
 _Fundamentals of Deep Learning_ by Nikhil Buduma and Nicholas Locascio (O&#39;Reilly)
 
 _Practical Convolutional Neural Networks_ by Mohit Sewak, Md. Rezaul Karim, and Pradeep Pujari (Packt)
+
+_Pattern Recognition and Machine Learning_ by Christopher Bishop (Springer)
 
 _Generative Deep Learning_ by David Foster (O&#39;Reilly)
 
